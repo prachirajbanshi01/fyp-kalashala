@@ -393,7 +393,8 @@ export default function Home() {
       {/* ── Footer ── */}
       <footer style={{
         borderTop: "2px solid rgba(100,80,60,0.12)",
-        padding: "24px", textAlign: "center", color: "#ffffff", fontSize: 16
+        padding: "90px", textAlign: "center", color: "#ffffff", fontSize: 16,
+        fontFamily: '"Helvetica Neue", Helvetica, Arial, sans-serif' 
       }}>
         © 2025 Kalashala · All rights reserved
       </footer>
